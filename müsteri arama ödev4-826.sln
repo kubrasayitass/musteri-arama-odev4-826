@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "müsteri arama ödev4-826", "müsteri arama ödev4-826\müsteri arama ödev4-826.csproj", "{0DE04CCC-9C78-4FA6-B491-6E8B36237825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE04CCC-9C78-4FA6-B491-6E8B36237825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE04CCC-9C78-4FA6-B491-6E8B36237825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE04CCC-9C78-4FA6-B491-6E8B36237825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE04CCC-9C78-4FA6-B491-6E8B36237825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC1F21A-EED7-408B-8EA7-A0B84F93DC41}
+	EndGlobalSection
+EndGlobal
